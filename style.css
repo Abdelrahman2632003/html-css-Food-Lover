@@ -274,6 +274,7 @@ header *{
 #Menu .menu-items .menu-item  p{
     color: black;
     margin-top: 10px;
+    text-align:left;
 
 }
 #Menu .menu-items .menu-item .primary-text{
