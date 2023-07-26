@@ -253,14 +253,12 @@ header *{
     align-items: center;
     margin: 40px;
     width: 420px;
-    margin: a;
-
 }
+
 #Menu .menu-items .menu-item img{
     width: 80px;
     border-radius: 50%;
     margin-right: 20px;
-
 }
 
 #Menu .menu-items .menu-item h3{
@@ -288,7 +286,6 @@ header *{
     background-color: goldenrod;
     color: white;
     margin-top: 35px;
-
 }
 
 #Menu button:hover{
